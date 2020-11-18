@@ -14,7 +14,7 @@
 .cuerpo .margin-left {
     grid-column: 1;
     grid-row: 1;
-    background-color: rgb(0, 167, 33);
+    background-color: rgb(213, 237, 0);
 }
 
 .cuerpo .contenido {
@@ -22,6 +22,7 @@
     grid-row: 1;
     align-self: center;
     justify-self: center;
+    background-color: rgb(16, 76, 255);
 }
 
 .cuerpo .margin-right {
@@ -36,5 +37,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    color: white;
+    font-size: 24px;
+    font-weight: 600;
     
 }
